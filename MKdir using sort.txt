@@ -1,0 +1,1 @@
+sort testing.txt|while read n;do mkdir $n;done
